@@ -5,7 +5,9 @@ for DNSSEC, against equivalent workloads without MTL.
 
 **PS-036**
 
-📺 **Video walkthrough:** _[https://youtu.be/kdxlqXvP3Js]_
+📺 **Video walkthrough:** _https://youtu.be/kdxlqXvP3Js_
+
+📄 **Proposed Solution PDF:** _[A3-PS036-TC095.pdf](./A3-PS036-TC095.pdf)_
 
 ---
 
